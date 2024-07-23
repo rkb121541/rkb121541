@@ -1,4 +1,4 @@
-# 🦍 Rishi Bidarkota
+# 🦍 🦧 Rishi Bidarkota
 
 ### 🌎 Socials
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbidarko@stevens.edu)
