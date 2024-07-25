@@ -61,3 +61,6 @@
 ---
 ### 🔝 Repos
 ![](https://github-contributor-stats.vercel.app/api?username=rkb121541&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+### 🐍 Contributions
+![snake gif](https://github.com/rkb121541/rkb121541/blob/output/github-contribution-grid-snake.svg)
