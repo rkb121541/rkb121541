@@ -52,15 +52,15 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
 ### 📊 Stats
-![](https://github-readme-stats-git-master-teamrkb.vercel.app/api?username=rkb121541&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rkb121541&theme=gruvbox&hide_border=false&show_icons=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb121541&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+![](https://github-readme-stats-git-master-teamrkb.vercel.app/api?username=rkb121541&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rkb121541&theme=gruvbox&hide_border=true&show_icons=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkb121541&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
 ---
 ### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=rkb121541&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rkb121541&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 ---
 ### 🔝 Repos
-![](https://github-contributor-stats.vercel.app/api?username=rkb121541&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rkb121541&limit=5&theme=gruvbox&combine_all_yearly_contributions=true&hide_border=true)
 
 ### 🐍 Contributions
 ![snake gif](https://github.com/rkb121541/rkb121541/blob/output/github-contribution-grid-snake-dark.svg)
