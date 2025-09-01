@@ -125,3 +125,5 @@ I build my projects to learn. I find projects to be the best way to learn and un
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rkb121541&theme=gruvbox)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rkb121541&theme=gruvbox)
+
+![snake gif](https://github.com/rkb121541/rkb121541/blob/output/github-snake-dark.svg)
