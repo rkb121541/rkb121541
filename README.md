@@ -1,18 +1,18 @@
 # 🦍 Rishi Bidarkota
 
-## About Me
+## 🧔 About Me
 
-`Aspiring Software Engineer/ Quantitative Developer`
+**`Aspiring Software Engineer/ Quantitative Developer`**
 
 I build my projects to learn. I find projects to be the best way to learn and understand things.
 
-## Links
+## 🕸️ Links
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:rbidarko@stevens.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishibidarkota/)
 [![Website](https://img.shields.io/badge/Website-FCC624?style=for-the-badge)](http://rishi-terminal.me)
 
-## Languages
+## 🌏 Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -46,7 +46,7 @@ I build my projects to learn. I find projects to be the best way to learn and un
 
 <br />
 
-## Frameworks
+## ⚙️ Frameworks
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 
@@ -60,7 +60,7 @@ I build my projects to learn. I find projects to be the best way to learn and un
 
 <br />
 
-## Libraries
+## 📖 Libraries
 
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 
@@ -75,7 +75,7 @@ I build my projects to learn. I find projects to be the best way to learn and un
 <br />
 
 
-## Tools
+## 🔧 Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -97,7 +97,7 @@ I build my projects to learn. I find projects to be the best way to learn and un
 
 <br />
 
-## Operating Systems
+## 🖥️ Operating Systems
 
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
@@ -116,7 +116,7 @@ I build my projects to learn. I find projects to be the best way to learn and un
 
 <br />
           
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rkb121541&show_icons=true&theme=gruvbox&rank_icon=github)
 
